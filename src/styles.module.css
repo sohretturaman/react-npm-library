@@ -7,3 +7,55 @@
   font-size: 2em;
   text-align: center;
 }
+
+.buttonWrapper{
+  margin: 10px;
+  padding: 10px;
+}
+
+
+
+.primary{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.default{
+  background-color: white;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 0.5px;
+  padding: 10px;
+  color: #000;
+  font-weight: 700;
+}
+
+.dashed{
+  background-color: white;
+  border-radius: 5px;
+  border-style: dashed;
+  border-width: 0.5px;
+  padding: 10px;
+  color: #000;
+  font-weight: 700;
+
+}
+.text{
+  background-color: white;
+  border-style: none;
+  padding: 10px;
+  color: #000;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.link{
+  background-color: white;
+  color: blue;
+  font-weight: 700;
+  border-style: none;
+  padding: 10px;
+  border-radius: 5px;
+}
